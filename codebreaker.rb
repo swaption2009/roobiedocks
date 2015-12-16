@@ -24,13 +24,13 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 
 # All your code should go between these lines!
 # ========================
-code.chr.chop
-
-
-
-
-
-
+code.slice!(0)
+code.insert(11, "A EW? O")
+code.delete! "Q?,"
+code.downcase!
+code.reverse!
+code.capitalize!
+puts code
 # ========================
 
 # What a nice passcode.
