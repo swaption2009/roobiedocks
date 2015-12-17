@@ -1,0 +1,1 @@
+To build full-stack enterprise apps using Ruby on Rails and iOS client

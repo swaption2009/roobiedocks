@@ -1,0 +1,2 @@
+- users and developers are moving into mobile apps development
+- back-end engines are getting fully automated
